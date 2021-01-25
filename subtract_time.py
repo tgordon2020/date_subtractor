@@ -17,7 +17,7 @@ def time_sub():
         print("Please enter 1 for current time, or 2 for specified time")
         time_sub()
 
-    print("Enter time to subract")
+    print("Enter time to subtract")
     weeks = int(input("Number of Weeks: "))
     days = int(input("Number of Days: "))
     hours = int(input("Number of Hours: "))
